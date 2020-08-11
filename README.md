@@ -1,4 +1,2 @@
-# Auditor2015
-OS auditor's scripts
-http://nyukers.blogspot.com
+# Auditor 2015
 There is some Visual Basic scripts.
